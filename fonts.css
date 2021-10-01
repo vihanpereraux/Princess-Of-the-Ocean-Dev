@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Rische Regular';
+    src: url('fonts/Rische Regular.ttf');
+    font-style: normal;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Rische Medium';
+    src: url('fonts/Rische Medium.ttf');
+    font-style: normal;
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'Rische Semibold';
+    src: url('fonts/Rische Semibold.ttf');
+    font-style: normal;
+    font-weight: 600;
+}
